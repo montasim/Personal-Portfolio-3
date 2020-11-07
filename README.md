@@ -36,9 +36,8 @@
 
 <br>
 
-<h2 align="left">Web Pages</h2>
+<h2 align="left">Full Website</h2>
 
-<h4 align="left">Full Website</h4>
 <p align="center">
   <img alt="Full Website" src = "https://github.com/montasim/Personal-Portfolio-3/blob/master/extra/portfolio.png">
 
