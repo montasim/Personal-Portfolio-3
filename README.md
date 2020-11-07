@@ -22,7 +22,7 @@
 </p>
 
 
-<h3 align="left">This is a personal portfolio website. It helps you to showcase your skills, projects and so many things that is most important to you. Hope you will like the website. You can also use this template website to make your own version of the website. If you use this website give credit to <a href="https://montasim.github.io">AUTHOR</a>.</h3>
+<h3 align="left">This is a personal portfolio website. It helps you to showcase your skills, projects and so many things that are most important to you. Hope you will like the website. You can also use this template website to make your own version of the website. If you use this website give credit to <a href="https://montasim.github.io">AUTHOR</a>.</h3>
 
 
 <br>
