@@ -38,25 +38,9 @@
 
 <h2 align="left">Web Pages</h2>
 
-<h4 align="left">Header</h4>
+<h4 align="left">Full Website</h4>
 <p align="center">
-  <img alt="Ghost image" src = "https://github.com/montasim/Personal-Portfolio-3/blob/master/extra/header.PNG">
-
-<h4 align="left">About Me</h4>
-<p align="center">
-  <img alt="Ghost image" src = "https://github.com/montasim/Personal-Portfolio-3/blob/master/extra/about%20me.PNG">
-
-<h4 align="left">Skills</h4>
-<p align="center">
-  <img alt="Ghost image" src = "https://github.com/montasim/Personal-Portfolio-3/blob/master/extra/skill.PNG">
-
-<h4 align="left">Contact Me</h4>
-<p align="center">
-  <img alt="Ghost image" src = "https://github.com/montasim/Personal-Portfolio-3/blob/master/extra/contact%20me.PNG">
-
-<h4 align="left">Footer</h4>
-<p align="center">
-  <img alt="Ghost image" src = "https://github.com/montasim/Personal-Portfolio-3/blob/master/extra/footer.PNG">
+  <img alt="Full Website" src = "https://github.com/montasim/Personal-Portfolio-3/blob/master/extra/portfolio.png">
 
 <br>
 <br>
